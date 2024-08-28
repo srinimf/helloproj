@@ -1,3 +1,3 @@
 #Added print
 print("Hello, World")
-Print("This is simple program")
+print("This is simple program")
